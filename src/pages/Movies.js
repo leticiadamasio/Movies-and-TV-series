@@ -4,6 +4,8 @@ import styled from 'styled-components'
 
 const Container = styled.section`
   background-color:#B5838D;
+  min-height:100vh;
+  height: auto;
   width:100%;
   align-items: center;
 `
