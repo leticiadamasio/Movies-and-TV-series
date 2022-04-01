@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movies-and-TV-series/static/css/main.e6c13ad2.css",
+    "main.js": "/Movies-and-TV-series/static/js/main.9ceef5de.js",
+    "static/js/787.14e4bc02.chunk.js": "/Movies-and-TV-series/static/js/787.14e4bc02.chunk.js",
+    "index.html": "/Movies-and-TV-series/index.html",
+    "main.e6c13ad2.css.map": "/Movies-and-TV-series/static/css/main.e6c13ad2.css.map",
+    "main.9ceef5de.js.map": "/Movies-and-TV-series/static/js/main.9ceef5de.js.map",
+    "787.14e4bc02.chunk.js.map": "/Movies-and-TV-series/static/js/787.14e4bc02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9ceef5de.js"
+  ]
+}
